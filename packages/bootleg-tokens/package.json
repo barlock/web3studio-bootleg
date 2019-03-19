@@ -12,6 +12,7 @@
   "scripts": {
     "test": "bootleg-truffle-test",
     "test:watch": ". bootleg-setup-ganache; chokidar --initial \"test/**/*.js\" \"contracts/**/*.sol\" -c \"yarn test\"",
+    "verify": "truffle run verify",
     "truffle": "truffle",
     "build": "truffle compile"
   },

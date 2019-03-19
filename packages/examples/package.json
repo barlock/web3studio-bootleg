@@ -11,6 +11,7 @@
     "url": "git+https://github.com/ConsenSys/web3studio-bootleg.git"
   },
   "scripts": {
+    "verify": "truffle run verify",
     "truffle": "truffle",
     "build": "truffle compile"
   },

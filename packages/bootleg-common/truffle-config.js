@@ -114,6 +114,7 @@ module.exports = projectRoot => {
       solc: {
         version: solcVersion
       }
-    }
+    },
+    plugins: ['truffle-security']
   };
 };
