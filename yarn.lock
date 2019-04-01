@@ -11352,10 +11352,9 @@ truffle-resolver@^5.0.8:
     truffle-expect "^0.0.7"
     truffle-provisioner "^0.1.2"
 
-truffle-security@^1.3.1:
+truffle-security@ConsenSys/truffle-security#master:
   version "1.3.1"
-  resolved "https://registry.yarnpkg.com/truffle-security/-/truffle-security-1.3.1.tgz#147084488185c66470434abedf049e78a663f86d"
-  integrity sha512-SAfJDyE+eMZO/J3hEWmEIoD60p8CNPzQYbPfInNbZtPx6g9gEimLVNi9FlkNz22zRDsDUazsNyFCz8TBfSqtIQ==
+  resolved "https://codeload.github.com/ConsenSys/truffle-security/tar.gz/c7afc82f1fd309df76e3bc1b872408cf2095bc69"
   dependencies:
     armlet "^2.3.0"
     configstore "^4.0.0"
